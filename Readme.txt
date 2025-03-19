@@ -11,6 +11,10 @@ Course Code: COP4610
 Course Name: Operating Systems
 Semester: Summer 2024
 
+
+[![Video Walkthrough](https://img.youtube.com/vi/lSBTTsYji-U/0.jpg)](https://www.youtube.com/watch?v=lSBTTsYji-U)
+
+
 Professor: Kiavash Bahreini
 Graders/SICAs:
 1. Samreen Abbasi (She/Her) - Email: sabba027@fiu.edu
