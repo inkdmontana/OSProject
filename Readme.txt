@@ -13,7 +13,7 @@ Semester: Summer 2024
 
 ## 🎥 Video Walkthrough
 
-[![Watch the demo](https://img.youtube.com/vi/lSBTTsYji-U/0.jpg)](https://www.youtube.com/watch?v=lSBTTsYji-U)
+[![Watch the demo](https://i.ytimg.com/vi/lSBTTsYji-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=lSBTTsYji-U)
 
 
 Professor: Kiavash Bahreini
