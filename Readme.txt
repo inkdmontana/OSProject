@@ -11,15 +11,9 @@ Course Code: COP4610
 Course Name: Operating Systems
 Semester: Summer 2024
 
-<div>
-    <a href="https://www.loom.com/share/87a5b0a260eb402a937bf0277f834394">
-    </a>
-    <a href="https://www.loom.com/share/87a5b0a260eb402a937bf0277f834394">
-      <img style="max-width:300px;" src="https://www.youtube.com/watch?v=lSBTTsYji-U">
-    </a>
-  </div>
-
-
+<a href="https://www.youtube.com/watch?v=lSBTTsYji-U">
+    <img src="https://img.youtube.com/vi/lSBTTsYji-U/0.jpg" width="600">
+</a>
 
 Professor: Kiavash Bahreini
 Graders/SICAs:
